@@ -1,40 +1,54 @@
-# Hi 👋, I'm VAISHNAVI SONAR  
-### 💡 Data Analyst  
+## Hi 👋, I'm Vaishnavi Sonar  
 
-![Profile views](https://komarev.com/ghpvc/?username=vaishnavisonar14&label=Profile%20views&color=0e75b6&style=flat)
-
-- 🌱 **Data Analysis, Python, SQL, and Power BI**  
-- 💬 Ask me about **Python, SQL, Data Analysis, and Dashboards**  
-- 📫 How to reach me: **vaishnavisonar81@gmail.com**  
+🎯 Data Analyst | BE (ECE) Graduate | 2024  
 
 ---
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sonar-/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vaishnavisonar81@gmail.com)  
+### 👩‍💻 About Me
+- 🎓 Bachelor of Engineering in Electronics & Communication (2024)
+- 📊 Certified Data Analyst – Innomatics Research Labs
+- 📍 Bangalore, India
+- 💡 Strong interest in data-driven decision making
+- 🔎 Actively seeking **Entry-Level Data Analyst / Data Analyst Intern** roles
 
 ---
 
-## 🛠️ Languages and Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>  
+### 🛠️ Skills & Tools
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy, EDA  
+- **Databases:** SQL  
+- **Visualization:** Power BI, Matplotlib  
+- **Tools:** Excel
 
 ---
 
-## 📊 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavisonar14&layout=compact&theme=radical)  
+### 📌 Projects
+- 📊 **Music Store Data Analysis (SQL)**  
+  - Designed relational schema & wrote complex analytical queries  
+  - Analyzed customer spending, top genres & revenue trends  
+
+- 📈 **Adidas Sales Analysis (Power BI)**  
+  - Built interactive dashboards with KPIs & slicers  
+  - Identified top-performing regions, products & sales methods  
+
+- 🐍 **Python EDA Projects**  
+  - Data cleaning, null handling, visualization & insights  
 
 ---
 
+### 🏆 Certifications
+- ✅ Data Analyst Certification – Innomatics Research Labs  
+- ✅ NPTEL – Introduction to Internet of Things  
+- ✅ Honeywell ICT Academy – Data Analytics  
 
 ---
+
+### 📬 Contact Me
+- 📧 Email: **vaishnavisonar81@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-sonar-/
+---
+
+⭐ *Open to opportunities | Ready to contribute | Quick learner*
 
 
 
