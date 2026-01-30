@@ -1,9 +1,9 @@
 # Hi 👋, I'm VAISHNAVI SONAR  
-### 💡 Aspiring Data Analyst  
+### 💡 Data Analyst  
 
 ![Profile views](https://komarev.com/ghpvc/?username=vaishnavisonar14&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Data Analysis, Python, SQL, and Power BI**  
+- 🌱 **Data Analysis, Python, SQL, and Power BI**  
 - 💬 Ask me about **Python, SQL, Data Analysis, and Dashboards**  
 - 📫 How to reach me: **vaishnavisonar81@gmail.com**  
 
