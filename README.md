@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Vaishnavi Sonar  
 
-🎯 Data Analyst | BE (ECE) Graduate | 2024  
+🎯  Entry level Data Analyst | BE (ECE) Graduate | 2024  
 
 ---
 
